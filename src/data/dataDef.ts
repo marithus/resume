@@ -7,14 +7,14 @@ export interface HomepageMeta {
   title: string;
   description: string;
   ogImageUrl?: string;
-  twitterCardType?: 'summary' | 'summary_large';
-  twitterTitle?: string;
-  twitterSite?: string;
-  twitterCreator?: string;
-  twitterDomain?: string;
-  twitterUrl?: string;
-  twitterDescription?: string;
-  twitterImageUrl?: string;
+  TwitchCardType?: 'summary' | 'summary_large';
+  TwitchTitle?: string;
+  TwitchSite?: string;
+  TwitchCreator?: string;
+  TwitchDomain?: string;
+  TwitchUrl?: string;
+  TwitchDescription?: string;
+  TwitchImageUrl?: string;
 }
 
 /**
@@ -123,7 +123,7 @@ export const ContactType = {
   Github: 'Github',
   LinkedIn: 'LinkedIn',
   Facebook: 'Facebook',
-  Twitter: 'Twitter',
+  Twitch: 'Twitch',
   Instagram: 'Instagram',
 } as const;
 
