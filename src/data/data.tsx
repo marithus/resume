@@ -67,8 +67,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Singapore based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently looking for 
-         <strong className="text-stone-100"> jobs</strong> 
+        I'm a  a recent graduate from Singapore, actively pursuing career opportunities as a <strong className="text-stone-100">Full Stack Developer</strong>
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time, you can catch me live on <a href="https://www.twitch.tv/marithus_">
@@ -232,7 +231,7 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: 'August 2019 - Present',
+    date: 'September 2019 - 2023',
     location: 'University of London',
     title: 'Bachelor’s Degree of Computer Science',
     content: <li>Major in Web and Mobile Development. Attained distinctions in multiple modules like Algorithm and Data Structures and Discrete Mathematic on track to First- Class Honors.</li>,
@@ -241,7 +240,8 @@ export const education: TimelineItem[] = [
     date: '2017 - 2019',
     location: 'Catholic Junior College',
     title: 'A Level',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>Activities and societies: Basketball, Welfare LeaderActivities and societies: Basketball, Welfare Leader
+    Studied: H2 Math, Physics, and Economics; H1 Chemistry, General Paper, and Project Work.</p>,
   },
 ];
 
