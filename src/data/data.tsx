@@ -67,7 +67,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a  a recent graduate from Singapore, actively pursuing career opportunities as a <strong className="text-stone-100">Full Stack Developer</strong>
+        I'm a recent graduate from Singapore, actively pursuing career opportunities as a <strong className="text-stone-100">Full Stack Developer</strong>
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time, you can catch me live on <a href="https://www.twitch.tv/marithus_">
@@ -234,7 +234,10 @@ export const education: TimelineItem[] = [
     date: 'September 2019 - 2023',
     location: 'University of London',
     title: 'Bachelor’s Degree of Computer Science',
-    content: <li>Major in Web and Mobile Development. Attained distinctions in multiple modules like Algorithm and Data Structures and Discrete Mathematic on track to First- Class Honors.</li>,
+    content: <li>Specialize in Web and Mobile Development. 
+              <li>On track to obtain First-class Honors </li>
+              <li>Attained distinctions in many challenging modules: Algorithm & Data Structures, Discrete mathematics, and Machine learning & Neural Networks.</li>  
+              </li>
   },
   {
     date: '2017 - 2019',
