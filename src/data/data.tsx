@@ -243,7 +243,7 @@ export const education: TimelineItem[] = [
     date: '2017 - 2019',
     location: 'Catholic Junior College',
     title: 'A Level',
-    content: <p>Activities and societies: Basketball, Welfare LeaderActivities and societies: Basketball, Welfare Leader
+    content: <p>Activities and societies: Basketball, Welfare Leader<br></br>
     Studied: H2 Math, Physics, and Economics; H1 Chemistry, General Paper, and Project Work.</p>,
   },
 ];
