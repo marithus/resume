@@ -152,7 +152,7 @@ export const skills: SkillGroup[] = [
     name: 'Frameworks:',
     skills: [
       {
-        name: 'Express.js',
+        name: 'Node.js',
         level: 7,
       },
       {
